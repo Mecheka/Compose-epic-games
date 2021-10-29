@@ -1,0 +1,1 @@
+/Users/suriya/Documents/Training/Android/ComposeEpicgame/buildSrc/build/classes/kotlin/main/Config.class:/Users/suriya/Documents/Training/Android/ComposeEpicgame/buildSrc/build/classes/kotlin/main/GradlePlugin.class:/Users/suriya/Documents/Training/Android/ComposeEpicgame/buildSrc/build/classes/kotlin/main/Versions.class
